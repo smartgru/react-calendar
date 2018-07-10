@@ -1,10 +1,10 @@
 {
-  "name": "react-calendar-component",
+  "name": "@hitask/react-calendar-component",
   "version": "2.0.0",
   "description": "React.js calendar component.",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Hanse/react-calendar"
+    "url": "git@github.com:HiTask/react-calendar.git"
   },
   "main": "./lib/index.js",
   "jsnext:main": "./src/index.js",
