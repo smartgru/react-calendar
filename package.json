@@ -1,11 +1,11 @@
 {
-  "name": "@hitask/react-calendar-component",
+  "name": "@smargru/react-calendar-component",
   "version": "2.0.1",
   "private": false,
   "description": "React.js calendar component.",
   "repository": {
     "type": "git",
-    "url": "git@github.com:HiTask/react-calendar.git"
+    "url": "git@github.com:smartgru/react-calendar.git"
   },
   "main": "./lib/index.js",
   "jsnext:main": "./src/index.js",
@@ -16,7 +16,7 @@
     "test": "jest",
     "prepublish": "yarn run build"
   },
-  "author": "Hanse",
+  "author": "SmartGru",
   "license": "MIT",
   "keywords": [
     "react",

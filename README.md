@@ -13,13 +13,7 @@ This is a low-level component for rendering monthly calendars using React. The
 component will call `renderDay` and `renderHeader` functions provided by you to
 make a calendar for the month of the given `Date`. Very basic default
 implementations are provided for both, but they can be overridden to fit your
-use case. This
-[example](https://github.com/Hanse/react-calendar/tree/master/examples/basic)
-shows how to create a regular grid calendar.
-
-# Live Demo
-
-http://hanse.github.io/react-calendar/
+use case.
 
 # Usage
 
